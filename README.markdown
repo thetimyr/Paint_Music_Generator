@@ -1,6 +1,6 @@
 # Music Paint
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/terabaud/pen/jVOYNv](https://codepen.io/terabaud/pen/jVOYNv).
+
 
 This is a little web audio experiment where you can paint music. 
 
