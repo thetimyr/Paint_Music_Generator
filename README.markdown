@@ -2,24 +2,24 @@
 
 
 
-This is a little web audio experiment where you can paint music. 
+Это небольшой эксперимент с веб-аудио, в котором вы можете рисовать музыку.
 
-Every stroke makes some noise. Either sine, square, triangle, sawtooth or white noise. 
+Каждый удар издает какой-то шум. Либо синус, квадрат, треугольник, пила или белый шум.
 
-It has some cool features:
+У него есть несколько интересных функций:
 
- * Unlimited canvas, (use the right mouse button to explore the canvas, or switch to move mode to move around)
- * Multi-touch is supported
- * Shake your phone to start over
- * Thanks to Web MIDI API, you can connect a MIDI device and make some noise :)
- * Or you can just use the keyboard
- * Save your work as an SVG file and reopen it for later use ☺ 
+  * Неограниченный холст (используйте правую кнопку мыши, чтобы исследовать холст, или переключитесь в режим перемещения, чтобы перемещаться)
+  * Поддерживается мультитач
+  * Встряхните телефон, чтобы начать сначала
+  * Благодаря Web MIDI API вы можете подключить MIDI-устройство и пошуметь :)
+  * Или вы можете просто использовать клавиатуру
+  * Сохраните свою работу как файл SVG и откройте его для дальнейшего использования ☺
 
-Limitations:
+Ограничения:
  
- * every tone is like a function (x) => y (only one y per x). 
+  * каждый тон подобен функции (x) => y (только один y на x).
  
-PS: Special thanks to my testers: My nieces (ages 4 and 7) had a lot of fun playing with it ☺ 
+PS: Особая благодарность моим тестерам: моим племянницам (4 и 7 лет) было очень весело играть с ним ☺
 
 
-UPDATE: Unfortunately, Chrome only. Limited support in Firefox and Edge.
+ОБНОВЛЕНИЕ: К сожалению, только Chrome. Ограниченная поддержка в Firefox и Edge.
